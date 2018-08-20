@@ -6,7 +6,7 @@ This repository contains the material for *Introduction to Functional Game Progr
 This README file contains a walkthrough for the workshop, as well as the following source code:
 
  1. In the `src` directory, you'll find a skeleton for a functional game that uses Scalaz and Monocle. This application is intended as the basis for the final set of exercises in the workshop.
- 2. In `snippets.txt`, you'll find a collection of snippets developed over the course of the workshop. You should be able to run this file from the command-line using the `scala` process.
+ 2. In `snippets.sc`, you'll find a collection of snippets developed over the course of the workshop. You should be able to run this file from the command-line using the `scala` process.
 
 # Introduction
 
